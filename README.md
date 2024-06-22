@@ -19,3 +19,6 @@ $ git clone https://github.com/jefersonprimer/to-do-list
 # Navigate into it
 $ cd to-do-list
 </code></pre>
+
+# Open Vs Code
+$ code .
