@@ -3,7 +3,7 @@
 
 <img width="600px" heigth="600px" src="./img/image-software.png">
 
-<p>This application was developed using **HTML5, CSS** and JS** to create the To-Doserver.</p>
+<p>This application was developed using **HTML5, CSS** and JS** to create the To-Do.</p>
 
 <h2 id="pre-requisites"> Prerequisites</h2>
 
