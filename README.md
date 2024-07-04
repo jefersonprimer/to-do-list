@@ -14,7 +14,7 @@
 <p>First, clone the repository,</p>
 
 <pre><code># Clone the repository
-$ git clone https://github.com/jefersonprimer/to-do-list
+$ git clone https://github.com/jefersonprimer/todo-list
 
 # Navigate into it
 $ cd to-do-list
